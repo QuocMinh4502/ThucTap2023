@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\Có User\\Có User\\ThucTap\\ThucTap.csproj": {}
+    "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\ThucTap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\Có User\\Có User\\ThucTap\\ThucTap.csproj": {
+    "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\ThucTap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Có User\\Có User\\ThucTap\\ThucTap.csproj",
+        "projectUniqueName": "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\ThucTap.csproj",
         "projectName": "ThucTap",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\Có User\\Có User\\ThucTap\\ThucTap.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\Có User\\Có User\\ThucTap\\obj\\",
+        "projectPath": "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\ThucTap.csproj",
+        "packagesPath": "C:\\Users\\ngocs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ngocs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -101,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
