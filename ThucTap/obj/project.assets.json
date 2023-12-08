@@ -3427,19 +3427,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ngocs\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\ThucTap.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\Tran\\ThucTap2023\\ThucTap\\ThucTap.csproj",
       "projectName": "ThucTap",
-      "projectPath": "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\ThucTap.csproj",
-      "packagesPath": "C:\\Users\\ngocs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngocs\\source\\repos\\Web2023\\DuAnCaNhan\\ThucTap2023\\ThucTap\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\Tran\\ThucTap2023\\ThucTap\\ThucTap.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\source\\repos\\Tran\\ThucTap2023\\ThucTap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ngocs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
